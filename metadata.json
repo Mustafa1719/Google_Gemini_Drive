@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Drive",
+  "description": "An intelligent file management application where users can upload, view, filter, and manage their files. Each file can be annotated with notes and renamed, with a full-screen preview available.",
+  "requestFramePermissions": []
+}
